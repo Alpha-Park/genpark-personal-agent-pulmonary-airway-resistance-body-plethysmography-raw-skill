@@ -1,0 +1,24 @@
+{
+  "name": "genpark-personal-agent-pulmonary-airway-resistance-plethysmography-raw-skill",
+  "version": "1.0.0",
+  "description": "Calculates Airway Resistance (Raw in cmH2O/(L/s)), Specific Airway Resistance (sRaw), and Specific Airway Conductance (sGaw) via body plethysmography.",
+  "author": "GenPark Ecosystem",
+  "license": "Apache-2.0",
+  "keywords": [
+    "personal-agent",
+    "openclaw",
+    "genpark",
+    "mcp",
+    "mcp-server",
+    "pulmonary",
+    "airway-resistance",
+    "plethysmography",
+    "raw",
+    "sgaw",
+    "bronchoconstriction",
+    "respiratory",
+    "zero-dependency"
+  ],
+  "main": "client.py",
+  "mcp_server": "mcp_server.py"
+}
